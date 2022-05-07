@@ -221,7 +221,5 @@ class MainActivity : AppCompatActivity() {
       j=j+1
      }
 
-
-
     }
 }
